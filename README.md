@@ -1,0 +1,1 @@
+# Trigger-word-detection-on-speech-data-Coursera-deeplearning.ai
